@@ -17,6 +17,4 @@ I am a student studying computer science.<br>
  - AI
  
 ## 🔥 Experience
-- PPDC Leader
 - PnP Data study
-- Kaist AIQ LAB
