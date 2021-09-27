@@ -13,8 +13,7 @@ I am a student studying computer science.<br>
 
  ## 🔭 I’m currently working on ...
  - French and French Area
- - Data
- - AI
+ - Computer
  
 ## 🔥 Experience
 - PnP Data study
