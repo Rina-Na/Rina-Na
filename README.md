@@ -3,7 +3,7 @@ Hi there! Welecome to my Github!<br>
 I am a student studying computer science.<br>
 
 ##🌱Education
--Hankuk University of Foreign Studies,Computer and Electronic System Engineering, Freshman.
+-Hankuk University of Foreign Studies,Computer and Electronic System Engineering, Second grade.
 
 ##📫 How to reach me
 <a herf="mailto:rinaisme@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoCp;pr=whiter"/></a>
