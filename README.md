@@ -2,23 +2,21 @@
 Hi there! Welecome to my Github!<br>
 I am a student studying computer science.<br>
 
-##🌱Education
--Hankuk University of Foreign Studies,Computer and Electronic System Engineering, Second grade.
+## 🎓 Education
+- Hankuk University of Foreign Studies, French and French Area, Computer Science , 2th Grade
 
-##📫 How to reach me
-<a herf="mailto:rinaisme@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoCp;pr=whiter"/></a>
+## 📫 How to reach me
+<a href="mailto:rinaisme@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_moilimoi_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100067587455766" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rina-na-819bb0221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
-<!--
-**Rina-Na/Rina-Na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🔭 I’m currently working on ...
+ - French and French Area
+ - Data
+ - AI
+ 
+## 🔥 Experience
+- PPDC Leader
+- PnP Data study
+- Kaist AIQ LAB
