@@ -1,4 +1,12 @@
-### Hi there 👋
+#RinaNa
+Hi there! Welecome to my Github!<br>
+I am a student studying computer science.<br>
+
+##🌱Education
+-Hankuk University of Foreign Studies,Computer and Electronic System Engineering, Freshman.
+
+##📫 How to reach me
+<a herf="mailto:rinaisme@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoCp;pr=whiter"/></a>
 
 <!--
 **Rina-Na/Rina-Na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
