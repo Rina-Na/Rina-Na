@@ -1,6 +1,5 @@
-##Rina Na
-
-Hi there! Welecome to my Github!<br>
+# Na Rina
+Hi there! Welcome to my Github!<br>
 I am a student studying computer science.<br>
 
 ## 🎓 Education
@@ -18,3 +17,13 @@ I am a student studying computer science.<br>
  
 ## 🔥 Experience
 - PnP Data study
+
+## 🛠 Skills
+<center>
+ <table width="100%">
+ <tr width="100%">
+  <td valign="top" width="50%">
+    <h3>Language</h3>
+    <ul>
+       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+     
