@@ -15,6 +15,8 @@ I am a student studying computer science.<br>
 ## 🔥 Experience
 - PnP Data team
 - PnP security team
+- PnP Python team
+- PnP AI Project team
 
 ## 🛠 Skills
 <center>
